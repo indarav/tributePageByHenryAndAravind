@@ -1,0 +1,12 @@
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  #title{
+    text-align: center;
+    font-size:5rem;
+    background-color: gray;
+  }
